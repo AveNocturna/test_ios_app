@@ -1,3 +1,9 @@
+# test_ios_app
+
+## Description
+
+An iOS App to Manage customers.
+
 ## Requirements
 
 - Xcode & Cocoapods installed
@@ -8,4 +14,3 @@
 - Open your terminal in the root folder, and run the following command: `pod install` 
 
 Now you should be able to run the project on Xcode.  :)
- 
